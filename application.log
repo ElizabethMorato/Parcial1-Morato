@@ -1,0 +1,49 @@
+jun 03, 2025 6:25:12 P. M. org.example.dao.ProveedorDAOImpl crear
+INFO: Proveedor creado con éxito: Proveedor Muebles SA
+jun 03, 2025 6:25:12 P. M. org.example.dao.MuebleDAOImpl crear
+INFO: Mueble creado con éxito: Silla Moderna
+jun 03, 2025 6:25:12 P. M. org.example.dao.MuebleDAOImpl leer
+INFO: Mueble leído con éxito: Silla Moderna
+jun 03, 2025 6:25:12 P. M. org.example.Main main
+INFO: Mueble: Silla Moderna, Precio: 199.99
+jun 03, 2025 7:42:09 P. M. org.example.Main main
+INFO: Se produce un error en la conexion de la base de datosorg.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: "C:/Users/Elizabeth/tiendamueble.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/Elizabeth/tiendamueble.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+jun 03, 2025 7:42:33 P. M. org.example.Main main
+INFO: Se produce un error en la conexion de la base de datosorg.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: "C:/Users/Elizabeth/tiendamueble.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/Elizabeth/tiendamueble.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+jun 03, 2025 7:49:14 P. M. org.example.Main main
+INFO: Se produce un error en la conexion de la base de datosorg.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: "C:/Users/Elizabeth/tiendamueble.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/Elizabeth/tiendamueble.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+jun 03, 2025 8:00:36 P. M. org.example.Main main
+INFO: Se produce un error en la conexion de la base de datosorg.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: "C:/Users/Elizabeth/tiendamueble.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/Elizabeth/tiendamueble.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+jun 03, 2025 8:04:35 P. M. org.example.Main main
+INFO: Se produce un error en la conexion de la base de datosorg.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: "C:/Users/Elizabeth/tiendamueble.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/Elizabeth/tiendamueble.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+jun 03, 2025 8:09:03 P. M. org.example.dao.ProveedorDAOImpl crear
+INFO: Proveedor creado con éxito: Proveedor Casillas
+jun 03, 2025 8:09:03 P. M. org.example.Main main
+INFO: El proveedor se creo correctamente: {}Proveedor Casillas
+jun 03, 2025 8:09:03 P. M. org.example.dao.MuebleDAOImpl crear
+INFO: Se creo con exito el mueble: Silla Moderna
+jun 03, 2025 8:09:03 P. M. org.example.Main main
+INFO: El mueble se creo correctamente: Silla Moderna
+jun 03, 2025 8:09:03 P. M. org.example.dao.MuebleDAOImpl crear
+INFO: Se creo con exito el mueble: Mesa de comedor
+jun 03, 2025 8:09:03 P. M. org.example.Main main
+INFO: Mueble creado correctamente: Mesa de comedor
+jun 03, 2025 8:09:03 P. M. org.example.Main main
+INFO: Lista de Proveedores:
+jun 03, 2025 8:09:03 P. M. org.example.dao.ProveedorDAOImpl listarTodos
+INFO: La lista de proveedores se realizo correctamente
+jun 03, 2025 8:09:03 P. M. org.example.Main lambda$main$0
+INFO: ID: {}, Nombre: {}1Proveedor Casillas
+jun 03, 2025 8:09:03 P. M. org.example.Main main
+INFO: Lista de Muebles:
+jun 03, 2025 8:09:03 P. M. org.example.dao.MuebleDAOImpl listarTodos
+INFO: La lista de muebles se leyo
+jun 03, 2025 8:09:03 P. M. org.example.Main lambda$main$1
+INFO: ID: {}, Nombre: {}, Precio: {}1Silla Moderna35.9
+jun 03, 2025 8:09:03 P. M. org.example.Main lambda$main$1
+INFO: ID: {}, Nombre: {}, Precio: {}2Mesa de comedor299.99
