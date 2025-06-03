@@ -47,3 +47,9 @@ jun 03, 2025 8:09:03 P. M. org.example.Main lambda$main$1
 INFO: ID: {}, Nombre: {}, Precio: {}1Silla Moderna35.9
 jun 03, 2025 8:09:03 P. M. org.example.Main lambda$main$1
 INFO: ID: {}, Nombre: {}, Precio: {}2Mesa de comedor299.99
+jun 03, 2025 8:36:23 P. M. org.example.Main main
+INFO: Se produce un error en la conexion de la base de datosorg.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: "C:/Users/Elizabeth/tiendademueble.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/Elizabeth/tiendademueble.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+jun 03, 2025 8:36:39 P. M. org.example.Main main
+INFO: Se produce un error en la conexion de la base de datosorg.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: "C:/Users/Elizabeth/tiendademueble.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/Elizabeth/tiendademueble.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
